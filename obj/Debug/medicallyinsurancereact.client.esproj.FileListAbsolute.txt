@@ -1,0 +1,1 @@
+E:\DIALMYTRIP DOTNET WITH REACT\MedicallyInsuranceReact\medicallyinsurancereact.client\obj\Debug\medicallyinsurancereact.client.esproj.CoreCompileInputs.cache
